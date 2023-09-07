@@ -1,6 +1,7 @@
 ## demo proje for abstract classes
 # NOTES
 -Abstract static methodlar oluşturamayız çünkü static methodlar override edilemez ancak Abstract methodların override edilmesi zorunludur bu nedenle yapılamaz Ancak static methodlar kullanılabilir.
+
 \```
 
 public abstract class Parent {
